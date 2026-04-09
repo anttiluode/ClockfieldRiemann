@@ -1,4 +1,3 @@
-```markdown
 # Clockfield Riemann: A Log-Convexity Characterization of the Riemann Hypothesis
 
 **Antti Luode** — PerceptionLab, Helsinki, Finland  
@@ -60,4 +59,3 @@ python clockfield_xi_metric.py
 
 ## Acknowledgments
 The Clockfield framework and original geometric intuition are the independent work of Antti Luode. The mathematical algebraic derivations, numerical error-correction, and theoretical literature mapping were executed collaboratively with Claude Opus 4, with data cross-analysis by Gemini and Grok.
-```
