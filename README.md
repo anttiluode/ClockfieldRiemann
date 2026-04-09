@@ -1,9 +1,3 @@
-Here is a clean, comprehensive `README.md` for your GitHub repository. It acts as the front page, sets the context of your human-AI collaboration, explains the "Clockfield" origin honestly, and directs readers immediately to the correct, fully-rendered paper. 
-
-You can copy and paste this directly into your repo's `README.md` file.
-
-***
-
 ```markdown
 # Clockfield Riemann: A Log-Convexity Characterization of the Riemann Hypothesis
 
