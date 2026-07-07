@@ -1,5 +1,7 @@
 # Clockfield Riemann: A Log-Convexity Characterization of the Riemann Hypothesis
 
+EDIT: Fable did a take 'The valley has a name' on this in a 'paper' and wrote rh_check.py.
+
 **Antti Luode** — PerceptionLab, Helsinki, Finland  
 **AI Collaborators** — Claude Opus 4 (Anthropic), Gemini (Google), Grok (xAI)  
 *April 2026*
